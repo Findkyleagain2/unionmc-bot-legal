@@ -1,0 +1,80 @@
+# UnionMC Bot Terms of Service
+
+**Last updated:** November 26, 2026
+
+## 1. Acceptance of Terms
+
+By using UnionMC Bot ("the Bot"), you agree to these Terms of Service. If you do not agree, discontinue using the Bot.
+
+## 2. Purpose
+
+UnionMC Bot is designed to support the UnionMC community by providing:
+
+- Minecraft server monitoring and player detection.
+- Player-count and server-status information.
+- Discord utility commands, including `/playercount`, `/ping`, and `/help`.
+- Automated moderation and security features.
+
+## 3. Acceptable Use
+
+Users must not:
+
+- Abuse, exploit, or intentionally disrupt the Bot.
+- Attempt unauthorized access to the Bot or its infrastructure.
+- Interfere with the Bot's monitoring, moderation, or security functions.
+- Use the Bot to harass, threaten, or target others.
+- Attempt to evade moderation or security measures.
+- Use the Bot to violate Discord's Terms of Service or Community Guidelines.
+- Abuse commands or features in a way that disrupts UnionMC or its users.
+
+## 4. Moderation
+
+The Bot may automatically detect and act upon activity that violates UnionMC's rules.
+
+Prohibited behavior may include:
+
+- Direct profanity where prohibited.
+- Abuse, harassment, or inappropriate conduct.
+- Manipulation or deceptive behavior.
+- Attempts to redirect users to other chat platforms in violation of server rules.
+- Other prohibited activity or security violations.
+
+Depending on its configuration, the Bot may remove content, issue warnings, restrict users, or perform other moderation actions.
+
+Moderation actions may be automated and are intended to protect the community. Users may contact UnionMC staff if they believe an action was made incorrectly.
+
+## 5. Server Monitoring
+
+The Bot may monitor Minecraft server availability and player presence to provide server-status information and related functionality.
+
+This monitoring is intended for server administration and community utilities.
+
+## 6. Availability
+
+The Bot is provided on an as-available basis. Features may change, become temporarily unavailable, or be discontinued.
+
+Continuous availability, uninterrupted operation, or error-free functionality is not guaranteed.
+
+## 7. Access Restrictions
+
+Access to the Bot or its functionality may be restricted, suspended, or revoked when necessary to protect the Bot, UnionMC, its users, or its infrastructure.
+
+UnionMC staff may establish additional rules governing its use.
+
+## 8. Disclaimer
+
+The Bot is provided without guarantees that it will always function correctly or meet every user's expectations.
+
+To the extent permitted by applicable law, the operator is not responsible for disruptions, errors, or issues resulting from the use of, or inability to use, the Bot.
+
+## 9. Changes to These Terms
+
+These Terms may be updated as the Bot develops. Updated versions will be published at the designated location.
+
+## 10. Contact
+
+Questions regarding these Terms may be directed to:
+
+**Contact:** Discord Username: spectrumverse52| Email: SassyArcMoik@gmail.com • Support
+
+These Terms apply to UnionMC Bot and its associated functionality.
