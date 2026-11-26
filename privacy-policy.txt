@@ -1,0 +1,103 @@
+# UnionMC Bot Privacy Policy
+
+**Last updated:** November 26, 2026
+
+## 1. Introduction
+
+UnionMC Bot ("the Bot") is a Discord bot associated with the UnionMC Minecraft community. It provides server-status monitoring, utility commands, moderation, and security-related functionality.
+
+This Privacy Policy explains what information the Bot may process, how it is used, and how privacy-related requests may be submitted.
+
+## 2. Information Processed
+
+Depending on its features, the Bot may process:
+
+- Minecraft usernames and player presence information, including whether a player is online.
+- Minecraft server status and player-count information.
+- Discord user IDs, server IDs, usernames, and display names.
+- Command inputs and interactions, including commands such as `/playercount`, `/ping`, and `/help`.
+- Messages or text that are processed by moderation systems.
+- Moderation events, actions, and relevant information needed to enforce server rules.
+- Technical information necessary for operation, troubleshooting, and security.
+
+## 3. Server Monitoring
+
+The Bot may monitor the UnionMC Minecraft server to determine its availability and detect players currently online.
+
+This information may be used to:
+
+- Display the current player count.
+- Report player presence.
+- Respond to server-status commands.
+- Provide server-related information to Discord users.
+
+Player detection is used for server functionality and is not intended to collect unrelated personal information.
+
+## 4. Commands and Functionality
+
+The Bot may provide commands including, but not limited to:
+
+- `/playercount` — Reports Minecraft server player information.
+- `/ping` — Checks Bot responsiveness.
+- `/help` — Displays available commands and information.
+
+Command inputs and interaction data may be processed to provide the requested functionality.
+
+## 5. Moderation and Security
+
+The Bot may process messages or relevant activity to detect violations of UnionMC's rules, including:
+
+- Direct profanity where prohibited.
+- Abusive, harassing, or inappropriate conduct.
+- Manipulation or deceptive behavior.
+- Attempts to redirect users to other chat platforms in violation of server rules.
+- Other prohibited behavior or security-related violations.
+
+When violations are detected, the Bot may take automated moderation actions, such as removing content, issuing warnings, restricting access, or other actions supported by its configuration.
+
+Moderation-related information may be processed to protect the community, enforce rules, and investigate abuse or security incidents.
+
+## 6. Storage and Retention
+
+Information may be processed temporarily or stored where necessary for the Bot's operation, moderation, security, and troubleshooting.
+
+Retention periods depend on the type of information and its purpose.
+
+**Discord user IDs, Usernames, Minecraft Usernames, Minecraft UUIDs are all stored for the following: Playercount Visibility, Ping, Discord-to-Minecraft chatting, vice versa. It is retained solely for the purpose
+monitoring. It is also retained for as long as the player is online [Minecraft UUID and Username.], Discord user ID is stored up until they activate Discord-to-Minecraft chat mode.**
+
+## 7. Sharing of Information
+
+Information is not intentionally sold.
+
+Information may be processed by services required to operate the Bot, including Discord, Minecraft server infrastructure, and hosting or service providers.
+
+Information may also be disclosed when necessary to address security incidents, abuse, or legal obligations.
+
+## 8. Security
+
+Reasonable measures are taken to protect information processed by the Bot. However, no system can guarantee absolute security.
+
+## 9. Privacy Requests
+
+Users may contact the Bot's operator regarding privacy questions or requests concerning information associated with them.
+
+Requests for deletion may be considered where applicable, subject to legitimate moderation, security, and operational requirements.
+
+## 10. Children's Privacy
+
+The Bot is not designed to request sensitive personal information from users.
+
+Users should not submit passwords, payment information, government identification, or other sensitive information through the Bot.
+
+## 11. Changes to This Policy
+
+This Privacy Policy may be updated when the Bot's functionality or data practices change. Updated versions will be published at the policy's designated location.
+
+## 12. Contact
+
+Privacy-related questions or requests may be directed to:
+
+**Contact:** Discord Username: spectrumverse52| Email: SassyArcMoik@gmail.com | Contact for support.
+
+This policy applies to UnionMC Bot and its associated functionality.
